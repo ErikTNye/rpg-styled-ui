@@ -708,10 +708,6 @@ button#roll-hd:hover::before {
 
 /* NAVIGATION */
 
-#ui-top {
-    width: calc(100% - 340px);
-}
-
 #navigation #nav-toggle {
     background: none;
     border: none;
