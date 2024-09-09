@@ -19,6 +19,10 @@
     --attribute-dot-filled-color: #ff0000;
 }
 
+html {
+    --topleft: -10rem !important;
+  }
+
 #pause img[src*="systems/dnd5e/ui/official/ampersand.svg"] {
     box-sizing: border-box;
     width: 128px;

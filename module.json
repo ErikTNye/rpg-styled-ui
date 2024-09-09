@@ -3,9 +3,9 @@
   "title": "RPG Styled UI for Foundry VTT",
   "description": "Theme for DnD5e.",
   "url": "https://github.com/ErikTNye/rpg-styled-ui",
-  "version": "v1.2.2",
+  "version": "v1.2.2b",
   "manifest": "https://github.com/ErikTNye/rpg-styled-ui/main/module.json",
-  "download": "https://github.com/ErikTNye/rpg-styled-ui/releases/download/1.2.2/module.zip",
+  "download": "https://github.com/ErikTNye/rpg-styled-ui/releases/download/1.2.2b/module.zip",
 
   "compatibility": {
     "minimum": "11",
